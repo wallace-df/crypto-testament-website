@@ -1,8 +1,6 @@
 # CryptoTestament
-CryptoTestament is a dApp deployed to the RSK network (https://rsk.co/) that allows BTC holders to create a digital testament by using smart contracts.
+Landing page for CryptoTestament built with BootStrap.
 
-RSK MainNet dApp: https://cryptotestament.io/
+CryptoTestament is a dApp deployed on the RSK network (https://rsk.co/) that allows BTC holders to create digital testaments powered by smart contracts.
 
-
-![DivBox](/cryptotestament-1.png?raw=true "CryptoTestament")
-![DivBox](/cryptotestament-2.png?raw=true "CryptoTestament")
+Live website: https://cryptotestament.io/
