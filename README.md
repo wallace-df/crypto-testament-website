@@ -5,4 +5,4 @@ CryptoTestament is a dApp deployed on the RSK network (https://rsk.co/) that all
 
 Live website: https://cryptotestament.io/
 
-Whitepaper: https://github.com/wallace-df/crypto-testament-website/whitepaper.pdf
+Whitepaper: [whitepaper.pdf](./whitepaper.pdf)
